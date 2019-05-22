@@ -5,9 +5,7 @@ def using_while
   	puts "Wingardium Leviosa"
   	levitation_force += 1
 
-  	puts "#{levitation_force}"
-  	evitation_force += 1
-
+  
 	end
 end
 
